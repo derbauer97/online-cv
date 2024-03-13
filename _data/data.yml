@@ -68,7 +68,7 @@ experiences:
         time: 2019 - Present
         company: DB Systel GmbH
         details: |
-          Betrieb und Einführung der neuen Vertriebsplatform Movas auf Basis von Kubernetes mit 20 Millionen Nutzern unter Beachtung der Compliancevorgaben.
+          Betrieb und Einführung der neuen Vertriebsplatform Movas (bahn.de/Navigator) auf Basis von Kubernetes mit 20 Millionen Nutzern unter Beachtung der Compliancevorgaben.
           Einführung einer GitOps Pipeline auf Basis von Flux für das Deployment bis nach Produktion.
           Aufsetzen der OnPrem Monitoring Lösung Instana für Application Monitoring der Movas Platform.
             - Kubernetes (EKS)
