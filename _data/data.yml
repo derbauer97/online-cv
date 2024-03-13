@@ -165,7 +165,7 @@ experiences:
 
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Skills
 
     toolset:
       - name: Kubernetes
@@ -175,6 +175,9 @@ skills:
         level: 90%
 
       - name: Flux / Helm
+        level: 90%
+
+      - name: Git
         level: 90%
 
       - name: Kubernetes Operator
@@ -197,6 +200,7 @@ skills:
       
       - name: AWS CDK
         level: 70%
+  
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
