@@ -31,7 +31,7 @@ sidebar:
     #pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
-      title: Languages
+      title: Sprachen
       info:
         - idiom: English
           level: fließend
@@ -40,27 +40,28 @@ sidebar:
           level: Muttersprache
 
     interests:
-      title: Interests
+      title: Hobbies
       info:
         - item: Rennrad fahren
-          link:
+        - item: Wandern
 
 career-profile:
-    title: Career Profile
+    title: Karriere Profil
     summary: |
+      Erfahren im Betrieb von komplexen und großen Microservicearchitekturen auf Kubernetes. Ich bringe 
       
 
 education:
-    title: Education
+    title: Ausbildung
     info:
       - degree: Ausbildung Fachinformatiker Systemintegration
         university: DB Systel GmbH
         time: 2015 - 2018
         details: |
-          IHK Abschluss
+          IHK Abschluss Fachinformatiker Systemintegration
 
 experiences:
-    title: Experiences
+    title: Berufserfahrung
     info:
       - role: Cloud Spezialist
         time: 2019 - Present
@@ -77,11 +78,13 @@ experiences:
             - GoLang
             - AWS
             - Kubernetes Operator
+            - Gitalb CI
+            - Cloudformation
       - role: Junior Cloud Manager - Lift and Shift
         time: 07.2018 - 01.2019
         company: DB Systel GmbH
         details: |
-          Erfolgreiche Migration einer Anwendung vom Rechenzentrum in die Cloud
+          Erfolgreiche Migration einer Anwendung vom Rechenzentrum in die AWS Cloud
             - Windows Server
             - Oracle Datenbank
             - Cloudformation
