@@ -48,10 +48,9 @@ sidebar:
 career-profile:
     title: Karriere Profil
     summary: |
-      Spaß im Betrieb von komplexen und großen Microservicearchitekturen auf Kubernetes. Ich arbeite mich gerne in komplexe Architekturen ein und versuche das letzte rauszuholen.
-      Habe meine Ausbildung bei der DB Systel gemacht und wurde danach übernommen. Nach der erfolgreiche Migration einer OnPrem Anwendung in die Cloud bin ich in den Managed Optimized Betrieb von Vendo gewechselt.
-      Dort haben wir erfolgreich eine neue Vertriebsplatform für 20 Millionen Nutzer auf Kubernetes Live gebracht.
-      
+      Spaß im Betrieb von komplexen und großen Microservicearchitekturen auf Kubernetes. Ich arbeite mich gerne in komplexe System ein und versuche das Optimum aus ihnen herauszuholen.
+      Ich habe meine Ausbildung bei der DB Systel gemacht und wurde danach übernommen. Nach der erfolgreiche Migration einer OnPrem Anwendung in die Cloud bin ich in den Managed Optimized Betrieb von Vendo gewechselt.
+      Dort haben wir erfolgreich die neue Vertriebsplatform für 20 Millionen Nutzer auf Kubernetes Live gebracht, die das Aushängeschild der Bahn darstellt (bahn.de, DB Navigator)      
 
 education:
     title: Ausbildung
